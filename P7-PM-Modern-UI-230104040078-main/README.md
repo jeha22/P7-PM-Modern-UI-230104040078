@@ -86,7 +86,7 @@ Clone Repository
 
 ```
 
-git clone [https://github.com/username/P7_Modern_Ui_230104040079.git](https://github.com/username/P7_Modern_Ui_230104040078.git)
+
 
 ```
 * Buka di Android Studio
